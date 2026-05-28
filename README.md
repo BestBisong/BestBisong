@@ -34,11 +34,6 @@ I am a **Software Engineering student** (Class of 2027) at **Babcock University*
 
 ### 📊 Engineering Metrics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bestbisong&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestbisong&layout=compact&theme=radical&hide_border=true&include_all_commits=true" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bestbisong&theme=github-compact&hide_border=true&area=true&color=36BCF7" />
 </p>
 
